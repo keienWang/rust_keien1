@@ -1,0 +1,20 @@
+[package]
+name = "rust_keien1"
+version = "0.1.0"
+edition = "2021"
+repository = "https://github.com/keienwang/rust_keien1"
+description = "keien for Rust"
+documentation = "https://github.com/keienwang/rust_keien1"
+
+homepage = "https://github.com/keienwang/rust_keien1"
+keywords = ["science", "mathematics", "ai", "hpc"]
+license = "Apache-2.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+sort_rust = "0.2.0"
+rust_keien = "0.1.0"
+rust_wbc = "0.1.0"
+rust_wek = "0.1.0"
+rust_wrr= "0.1.0"
